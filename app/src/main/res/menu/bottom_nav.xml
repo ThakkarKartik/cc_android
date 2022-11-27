@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="News" android:icon="@drawable/ic_baseline_login_24" android:id="@+id/menu_news" />
+    <item android:title="Login" android:icon="@drawable/ic_baseline_scatter_plot_24" android:id="@+id/menu_Login" />
+    <item android:title="Profile" android:icon="@drawable/ic_baseline_self_improvement_24" android:id="@+id/menu_profile" />
+</menu>
